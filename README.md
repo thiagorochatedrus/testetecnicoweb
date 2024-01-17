@@ -64,10 +64,10 @@ $ npm install
 
 ## Comando para abrir o Cypress
 ```bash
-$ npm run open
+$ npx cypress open
 ```
 
 ## Para executar os testes no terminal
 ```bash
-$ npm run scripts
+$ npx cypress run
 ```
